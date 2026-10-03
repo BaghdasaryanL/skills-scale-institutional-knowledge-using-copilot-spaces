@@ -80,4 +80,4 @@ Across the project lifecycle, you'll create and maintain:
 
 ## Questions?
 
-If you have questions about OctoAcme's project management process, check the relevant guide or reach out to your Project Manager or Product Lead. These docs are living artifacts — if you spot gaps or improvements, please contribute via the [Add Content to Process Docs issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml).
+If you have questions about OctoAcme's project management process, check the relevant guide or reach out to your Project Manager or Product Lead. These docs are living artifacts — if you spot gaps or improvements, please contribute via the [Add Content to Process Docs issue template](../.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml).
