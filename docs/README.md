@@ -29,7 +29,7 @@ Quality assurance is embedded into the workflow rather than treated as a final s
 ### Core Guides
 
 - **[Project Management Overview](./octoacme-project-management-overview.md)** — Start here for principles, roles, artifact descriptions, and the project lifecycle
-- **[Roles & Personas](./octoacme-roles-and-personas.md)** — Understand the responsibilities and goals of Developers, Product Managers, Project Managers, and Stakeholders
+- **[Roles & Personas](./octoacme-roles-and-personas.md)** — Understand the responsibilities and goals of Developers, Product Managers, and Project Managers
 
 ### Project Lifecycle
 
